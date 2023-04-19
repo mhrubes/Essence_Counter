@@ -5,8 +5,8 @@ HOW TO START APP
 --------------------------
 
 Download [https://github.com/mhrubes/Essence_Counter/releases/tag/1.0] <br />
-**Extract** Folder from ZIP
-**Open** the Folder and click on **EssenceCounter.exe**
+**Extract** Folder from ZIP <br />
+**Open** the Folder and click on **EssenceCounter.exe** <br />
 
 HOW TO USE
 --------------------------
