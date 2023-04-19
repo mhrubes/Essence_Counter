@@ -4,7 +4,7 @@ Simple counter which count essences in Memory in Path of Exile
 HOW TO START APP
 --------------------------
 
-Download [https://github.com/mhrubes/Essence_Counter/releases/tag/1.0] <br />
+Download the Latest Version from https://github.com/mhrubes/Essence_Counter/releases <br />
 **Extract** Folder from ZIP <br />
 **Open** the Folder and click on **EssenceCounter.exe** <br />
 
